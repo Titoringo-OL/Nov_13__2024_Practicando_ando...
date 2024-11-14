@@ -25,4 +25,26 @@ Practicando ando...  13 de Noviembre del 2024
 # 6# Colores del fondo
 ![image](https://github.com/user-attachments/assets/4a12d8e0-582a-48c1-a8a5-41219e925f56)
 
+# 7# Colores del texto
+![image](https://github.com/user-attachments/assets/4c504411-d7e5-47e4-aa26-4db28476b4b2)
+
+# 8# Color del borde
+![image](https://github.com/user-attachments/assets/0fb48a8c-b434-450c-a256-3eecdd1df2be)
+
+# 9# Valores de color
+![image](https://github.com/user-attachments/assets/d28dee1f-a290-4de8-9f89-8b76cbfe0200)
+
+# 10# CSS en linea
+![image](https://github.com/user-attachments/assets/c75e1de2-5f52-4c21-8cf9-440b460faa7c)
+
+# 11# CSS Interno
+![image](https://github.com/user-attachments/assets/30df42bb-a97f-4376-b9e1-334bb5c305db)
+
+# 12# CSS Externo
+![image](https://github.com/user-attachments/assets/15806a8f-bf0e-462e-83e6-485854e23a93)
+
+
+
+
+
 
